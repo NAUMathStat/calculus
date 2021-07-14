@@ -23,8 +23,8 @@ body {
   display: none;
   position: absolute;
   z-index: 99;
-  width: ;
-  height: ;
+  width: 600px;
+  height: 600px;
   padding-top: 150px;
   line-height: 20px;
   text-align: center;
@@ -567,7 +567,7 @@ div.literature {
 .box1 {
     margin: 20px 5px 20px 5px;
     padding: 1px;
-    max-width: ;
+    max-width: 600px;
     overflow: auto;
 }
 
@@ -692,34 +692,34 @@ div.jxgbox {
   margin-right:auto;
 }
 
-div #content { max-width: ;
+div #content { max-width: 600px;
               font-size: 100%;
               line-height:150%;
      }
 
-* p { max-width:  }
-div.definition { max-width:  }
+* p { max-width: 600px }
+div.definition { max-width: 600px }
 div.definition span.theoremlabel { 
      font-style: normal;
      font-weight: bold;
      margin-right: 10px;
    }
 
-div.remark { max-width:  }
+div.remark { max-width: 600px }
 div.remark span.theoremlabel {
      font-style: normal;
      font-weight: bold;
      margin-right: 10px;
    }
 
-div.example { max-width:  }
+div.example { max-width: 600px }
 div.example span.theoremlabel {
      font-style: normal;
      font-weight: bold;
      margin-right: 10px;
    }
 
-div.theorem { max-width: ;} 
+div.theorem { max-width: 600px;} 
 div.theorem p { font-style: italic; }
 div.theorem span.theoremlabel { 
      font-style: normal;
