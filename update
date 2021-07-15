@@ -3,7 +3,7 @@
 git pull
 cp ~/public_html/calculus/* html
 cp ../calculussource/multivariable.pdf pdf
-git add *
+# git add *
 git commit -a -m "blah"
 git push
 
