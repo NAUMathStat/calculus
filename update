@@ -1,3 +1,5 @@
 git pull
 cp ~/public_html/calculus/* html
 cp ../calculussource/multivariable.pdf pdf
+git add *
+git commit
