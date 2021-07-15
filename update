@@ -1,3 +1,5 @@
+# This is a script used by Nandor to push the compiled book.
+
 git pull
 cp ~/public_html/calculus/* html
 cp ../calculussource/multivariable.pdf pdf
